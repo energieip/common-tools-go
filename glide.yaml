@@ -1,0 +1,9 @@
+package: github.com/energieip/common-tools-go
+homepage: https://github.com/energieip/common-tools-go
+license: Apache v2.0
+owners:
+- name: Amandine Drebes
+  email: amandine@energie-ip.com
+  homepage: https://energie-ip.com
+import: [
+]
